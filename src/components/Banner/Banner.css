@@ -1,0 +1,23 @@
+.banner-part {
+  margin-top: -40px;
+  margin-bottom: 40px;
+  background: url(../../images/banner.jpg) no-repeat center;
+  background-size: cover;
+}
+.banner-part .overlay {
+  background: hsla(220, 60%, 16%, 0.6);
+  padding-top: 150px;
+  padding-bottom: 130px;
+  color: #fff;
+}
+.banner-part .overlay h1 {
+  font-size: 40px;
+}
+.banner-part .overlay h3 {
+  font-size: 28px;
+  padding: 10px 0;
+}
+.banner-part .overlay p {
+  width: 60%;
+  font-size: 16px;
+}

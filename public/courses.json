@@ -1,0 +1,92 @@
+[
+    {
+      "name":  "Introduction to Personal Finance",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/09/introduction-to-personal-finance-course-product-300x225.png"
+    },
+    {
+      "name": "Google Workspace Essential Training",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/07/Google-Workspace-300x225.jpg"
+    },
+    {
+      "name": "Email Expert",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/07/Email-Expert-Bangla-Course-300x225.png"
+    },
+    {
+      "name":  "Career Track: Back-End Development With Python and Django",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Back-End-Web-Dev-Py-300x225.png"
+    },
+    {
+      "name":  "Career Track: Back-End Development With Python and Django",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Back-End-Web-Dev-JS-300x225.png"
+    },
+    {
+      "name":  "Career Track: Front-End Web Development",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Front-End-Web-Dev-300x225.png"
+    },
+    {
+      "name":  "Diversity, Tolerance & Pluralism",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/06/MOOC-300x225.png"
+    },
+    {
+      "name":  "Introduction to Database",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Database@4x-8-300x225.png"
+    },
+    {
+      "name":  "Turning Stress into Strength",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Turning-stress-into-strength-300x225.png"
+    },
+    {
+      "name":  "Google Marketing Tools (Organic)",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/05/Google-Marketing-Tools-Organic-300x225.png"
+    },
+    {
+      "name":  "Google Ads Complete Course: A to Z",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/09/bohubrihi-october-offer-ends-300x225.png"
+    },
+    {
+      "name":  "Laravel for Back-end Web Development",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/04/Laravel-300x225.jpg"
+    },
+    {
+      "name":  "Facebook Ads: A to Z",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/09/bohubrihi-october-offer-ends-300x225.png"
+    },
+    {
+      "name":  "Back-End Web Development with Node Js, Express and MongoDB",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2021/04/NodeJS-with-Simanta-Paul-300x225.jpg"
+    },
+    {
+      "name":  "Facebook Marketing Tools (Organic)",
+      "price": 120,
+      "details": "t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "img": "https://bohubrihi.com/wp-content/uploads/2020/12/Facebook-Marketing-300x225.png"
+    }
+  ]

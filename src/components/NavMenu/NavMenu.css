@@ -1,0 +1,15 @@
+.nav-item {
+  color: #fff;
+  padding: 15px;
+  transition: all linear 0.4s;
+  -webkit-transition: all linear 0.4s;
+  -moz-transition: all linear 0.4s;
+  -ms-transition: all linear 0.4s;
+  -o-transition: all linear 0.4s;
+}
+.nav-item:hover {
+  color: #5c6b8b;
+}
+.selected {
+  color: #5c6b8b;
+}
